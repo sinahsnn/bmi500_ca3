@@ -1,0 +1,9 @@
+leibniz_pi
+A: leibniz_pi_mod
+B: leibniz_pi_pow
+C: leibniz_pi_list
+D: leibniz_pi_set
+E: leibniz_pi_dict
+F: leibniz_pi_numpy
+G: leibniz_pi_numpy_indexing
+H: leibniz_pi_pairs
